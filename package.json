@@ -1,7 +1,10 @@
 {
-	"author": "kaminari",
+	"author": "kaminari 0206",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"keywords": [ "node", "javascript", "freecodecamp" ],
+	"license": "MIT license",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
